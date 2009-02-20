@@ -1,0 +1,9 @@
+# use glob syntax.
+syntax: glob
+
+*.pyc
+*.egg-info*
+*.log
+testfiles/svg11full*
+tests/testdest*
+_*
